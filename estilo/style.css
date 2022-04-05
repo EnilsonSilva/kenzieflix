@@ -37,6 +37,7 @@ header{
     top: 50%;
     margin-left: -400px;
     margin-top: -10px; 
+    overflow: hidden;
    
 }
 
@@ -65,7 +66,7 @@ figure > img:hover{
     margin: 26px;
     width: 160px;
     height: 160px;
-    transition: 0.5s;
+    transition: 0.3s;
     
 
 }
@@ -73,7 +74,7 @@ figure > img:hover{
 #adicionar:hover{
    background-image: url('Frame-5.png');
     border: 1.4px white solid;
-    transition: 0.5s;
+    transition: 0.7s;
     transform: scale(0.9);
 }
 figcaption{
