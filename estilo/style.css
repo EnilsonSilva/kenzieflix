@@ -98,6 +98,7 @@ figcaption{
     top: 95%;
 }
 #botao:hover{
+    cursor: pointer;
     background-color: white;
     color: black;
     border: 1px black solid;
