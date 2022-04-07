@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100&display=swap');
+
 body{
     background-color: black;
 }
@@ -18,7 +21,7 @@ header{
     height: 70px
 }
 #titu{
-
+    font-family: 'IBM Plex Sans', sans-serif;
     color: white;
     font-size: 2rem;
     font-weight: bolder;
